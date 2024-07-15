@@ -1,5 +1,3 @@
-Certainly! Here is the detailed README content formatted for a README file:
-
 ---
 
 # Diffusion Model for Generating Butterfly Images
